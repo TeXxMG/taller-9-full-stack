@@ -9,3 +9,7 @@
 
 <h2>Punto 2: HTML</h2>
 <img src="./Public/images/html.png" alt="html">
+
+<h2>Punto 3: CSS</h2>
+<img src="./Public/images/css.png"
+alt="css">
