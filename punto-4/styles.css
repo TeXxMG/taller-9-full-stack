@@ -1,0 +1,13 @@
+.textos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.textos__azul {
+    color: blue;
+}
+
+.textos__rojo {
+    color: red;
+}

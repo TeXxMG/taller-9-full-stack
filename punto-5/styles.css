@@ -1,0 +1,32 @@
+.centrado {
+    display: flex;
+    justify-content: center;
+}
+
+.alineado-inicial {
+    text-align: left;
+}
+
+.texto-verde {
+    color: #00850b;
+}
+
+.texto-rojo {
+    color: #ff0000;
+}
+
+.line--up__down {
+    text-decoration-line: overline underline;
+}
+
+.texto-azul {
+    color: #0400fa;
+}
+
+.subrayado {
+    text-decoration: underline;
+}
+
+.texto-grande {
+    font-size: 2em;
+}

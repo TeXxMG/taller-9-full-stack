@@ -1,0 +1,27 @@
+body a {
+    font-size: 3em;
+}
+
+.centrado {
+    display: flex;
+    justify-content: center;
+}
+
+.alineado-inicial {
+    text-align: left;
+}
+
+.titulo-principal {
+    color: #000000;
+    font-weight: bold;
+    text-decoration: none;
+    pointer-events: none;
+}
+
+.link-marca {
+color: #ffc400;
+}
+
+.link-as {
+color: #cc00ff;
+}
