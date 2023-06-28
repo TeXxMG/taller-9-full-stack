@@ -1,8 +1,21 @@
+body {
+    padding: 50px;
+}
+
 table {
     background-color: yellow;
     border: 1px #000 dotted;
     border-bottom: 1px red dashed;
     border-collapse: collapse;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+th {
+    color: red;
 }
 
 td {
